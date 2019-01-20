@@ -1,0 +1,6 @@
+1. top 10 scorer 													- done
+2. best track performed												
+3. best designation performed										
+4. participants who doesn't take test in all tests  				- done
+5. Percentage of attempt to exam type(complexity)
+6. No. of people attempts exam from start to end					done
